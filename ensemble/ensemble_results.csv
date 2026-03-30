@@ -1,0 +1,2 @@
+n_models,n_resnet,n_mobilenet,n_custom,test_f1_soft,test_f1_hard
+12,3,4,5,0.8412255512870545,0.838223687411527
