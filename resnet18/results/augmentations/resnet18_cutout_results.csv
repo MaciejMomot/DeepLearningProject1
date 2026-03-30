@@ -1,0 +1,2 @@
+config,lr,batch_size,dropout,weight_decay,val_f1_mean,val_f1_std,test_f1_mean,test_f1_std
+best_params_plus_augmentation_cutout,0.0001,16,0.2,0.0,0.8032095769003286,0.001636729863564724,0.8010591851150858,0.002308938958622062
